@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Confirn_Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Create_Saving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_E_W.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_E_Wallet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Game.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_History_Transaction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Recharge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Recharge_Phone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Saving.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form_TV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
